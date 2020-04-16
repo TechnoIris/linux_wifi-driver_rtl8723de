@@ -1,0 +1,4 @@
+tar -cf rtl-8723 rtlwifi_new
+tar -xf rtlwifi-8723
+chmod & cd 
+make install
